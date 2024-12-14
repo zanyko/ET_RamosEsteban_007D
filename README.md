@@ -1,4 +1,4 @@
-cuenta docente: docente2
+cuenta docente: docente2,
     contraseña: viceraes
 
 Dependencias necesarias para correr en android
